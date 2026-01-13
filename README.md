@@ -1,12 +1,12 @@
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 # 👋 Hi, I'm Abdulrahman Khamis
 ### Software Development Student & Aspiring Developer 🚀
 
-![Views](https://komarev.com/ghpvc/?username=AbdulrahmanKhamis&style=flat-square&color=blue&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=AbdelrahmanKhamess&style=flat-square&color=blue&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanKhamess&show_icons=true&theme=nord&hide_border=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanKhamess&layout=compact&theme=nord&hide_border=true" width="48%" alt="Languages" />
 </div>
 
 <hr>
